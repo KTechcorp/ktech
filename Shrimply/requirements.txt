@@ -1,0 +1,2 @@
+# No third-party packages required.
+# Shrimply uses Python's built-in HTTP server.
